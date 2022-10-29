@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LYNissanLeaksFinder_Example' do
+  pod 'LYNissanLeaksFinder', :path => '../'
+
+  target 'LYNissanLeaksFinder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

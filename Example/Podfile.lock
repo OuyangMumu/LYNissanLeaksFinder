@@ -1,0 +1,16 @@
+PODS:
+  - LYNissanLeaksFinder (0.1.0)
+
+DEPENDENCIES:
+  - LYNissanLeaksFinder (from `../`)
+
+EXTERNAL SOURCES:
+  LYNissanLeaksFinder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYNissanLeaksFinder: 1cc17ad6d17e56c602379c917dd69b7ea85aa9e0
+
+PODFILE CHECKSUM: fdd119b836c28cd604360ad0d6c75f4378a97b57
+
+COCOAPODS: 1.11.3

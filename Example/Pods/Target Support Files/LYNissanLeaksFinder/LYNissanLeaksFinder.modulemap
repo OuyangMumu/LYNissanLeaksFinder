@@ -1,0 +1,6 @@
+framework module LYNissanLeaksFinder {
+  umbrella header "LYNissanLeaksFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
